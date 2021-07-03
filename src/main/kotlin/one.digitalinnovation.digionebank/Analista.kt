@@ -1,7 +1,5 @@
 package one.digitalinnovation.digionebank
 
-import java.math.BigDecimal
-
 class Analista(
     nome: String,
     cpf: String,
